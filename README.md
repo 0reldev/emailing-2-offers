@@ -39,6 +39,6 @@ Web-based clients:
 
 ![screen capture](https://github.com/0reldev/emailing-2-offers/blob/dev/screen-captures/mobile-3.png)
 
-![screen capture](https://github.com/0reldev/eemailing-2-offers/blob/dev/screen-captures/mobile-4.png)
+![screen capture](https://github.com/0reldev/emailing-2-offers/blob/dev/screen-captures/mobile-4.png)
 
 ![screen capture](https://github.com/0reldev/emailing-2-offers/blob/dev/screen-captures/mobile-5.png)
